@@ -1,3 +1,7 @@
+
+
+
+# THIS IS A COPIED CODE FROM https://beginnersbook.com/2014/01/java-program-to-display-prime-numbers/ JUST FOR LEARNING PURPOSE
 package test;
 
 class Prime
